@@ -1,0 +1,17 @@
+Atividade de história colaborativa
+
+  Com intuito de por em prática os conhecimentos em git, propomos esta atividade. Deve-se criar grupos com uma certa quantidade de computadores (neste caso 5) e as pessoas deverão dar continuidade à historinha de base em diferentes branches.
+
+  A ideia é que em um grupo, a continuação da história se dê de forma sequencial, isto é, PC A começa a história e dá um push; PC B dá um pull para atualizar a história, dá continuidade a ela e dá um push, e assim por diante.
+
+  Quando o último PC terminar, a história mais legal ganha confeito.
+
+
+1. Dar clone do seguinte repositório:
+2. Juntar um grupo de 5 máquinas e decidir o nome do branch que será criado e decidir a ordem de desenvolvimento da história (3mins);
+3. O computador que vai começar deve criar o branch e terá 1 minuto para dar continuidade à história (1min);
+4. Segue-se a ordem de desenvolvimento da história
+4.1. Fazer pull para pegar atualização da história;
+4.2. Escrever história;
+4.3. Commit e push!
+5. Quando o último computador terminar, as histórias serão lidas para todos e a mais massa ganha confeito.
